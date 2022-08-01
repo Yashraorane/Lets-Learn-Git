@@ -2,6 +2,6 @@ let radius=5
 const pi=3.14
 let area
 
-radius=6
+radius=5
 area=pi*radius*radius
 console.log(area)
